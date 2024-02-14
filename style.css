@@ -1,0 +1,57 @@
+body{
+    background-color:floralwhite;
+}
+
+background{
+    color: floralwhite;
+}
+.right_resume {
+    background-color:floralwhite;
+  }
+.left_resume {
+    background-color:cadetblue;
+    height:158.3rem
+  }
+
+H2{
+    color:dimgrey;
+    font-size: large;
+}
+
+H1{
+    color:dimgrey;
+    font-size:xx-large
+}
+
+H3{
+    font-size:medium;
+    color:dimgrey;
+}
+
+H4{
+    font-size: medium;
+    color:dimgrey;
+}
+
+p{
+    font-size:medium;
+    color:gray;
+}
+
+ul{
+    color:dimgrey;
+}
+
+.display_pic{
+    height: 5.94%;
+    width : 100%;
+
+}
+
+a{
+color:dimgrey;
+}
+.skills{
+    color:floralwhite;
+    font-size: 14px;
+}
