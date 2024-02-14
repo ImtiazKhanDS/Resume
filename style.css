@@ -10,7 +10,7 @@ background{
   }
 .left_resume {
     background-color:cadetblue;
-    height:158.3rem
+    height:171rem
   }
 
 H2{
@@ -24,17 +24,17 @@ H1{
 }
 
 H3{
-    font-size:medium;
+    font-size:large;
     color:dimgrey;
 }
 
 H4{
-    font-size: medium;
+    font-size: large;
     color:dimgrey;
 }
 
 p{
-    font-size:medium;
+    font-size:large;
     color:gray;
 }
 
@@ -43,7 +43,7 @@ ul{
 }
 
 .display_pic{
-    height: 5.94%;
+    height: 12%;
     width : 100%;
 
 }
@@ -53,5 +53,9 @@ color:dimgrey;
 }
 .skills{
     color:floralwhite;
-    font-size: 14px;
+    font-size: 18px;
+}
+
+.skills_header{
+    font-size:25px;
 }
